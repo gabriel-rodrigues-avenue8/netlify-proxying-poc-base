@@ -27,6 +27,6 @@
   force=true
 
 [[redirects]]
-  from="/static"
+  from="/static/*"
   to="https://proxying-test-sub.netlify.app/static/:splat"
   status=200
