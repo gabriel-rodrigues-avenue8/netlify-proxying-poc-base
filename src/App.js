@@ -12,10 +12,8 @@ function App() {
         <a
           className="App-link"
           href="/sub?token=123abc"
-          target="_blank"
-          rel="noopener noreferrer"
         >
-          Sub-app
+          Go to sub-app
         </a>
       </header>
     </div>
